@@ -16,6 +16,23 @@
       "revId": "84acfa80135baae1c064fb275aa8452a91a86369",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "927d388c_5e351cd5",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1013789
+      },
+      "writtenOn": "2018-04-02T20:48:33Z",
+      "side": 1,
+      "message": "aserfaert",
+      "revId": "84acfa80135baae1c064fb275aa8452a91a86369",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
